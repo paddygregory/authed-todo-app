@@ -11,13 +11,9 @@ Includes the backend code for the authenticated todo app, including jwt + header
 Includes documentation, including project layout, developer notes and gradual learnings
 
 1. app.md: gives a high-level breakdown of what the app will include
+2. architecure.svg: layout of the application's architecture
 
 
 ### TESTS
 
 Includes testing for CRUD routes and auth
-
-
-### diagram of system design
-
-![Alt text] (auth_todo_architecture.svg)
